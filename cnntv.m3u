@@ -1156,7 +1156,7 @@ http://v.wangjiuling.com/tv?sv=RWK901LseoTKXcabpxzB
 http://v.wangjiuling.com/tv?sv=7oOAj2PFqJib6CBWgnx9
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/cna.png",group-title="新加坡",CNA
 http://v.wangjiuling.com/tv?sv=pgjPbqjhqlirNCdNw7VE
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/utv.png",group-title="新加坡",Channel U
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/utv.png",group-title="新加坡",Channel-U
 http://v.wangjiuling.com/tv?sv=OnzXvwxHlgTmzSNW0gBr
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/miaomi.png",group-title="新加坡",miao mi
 http://v.wangjiuling.com/tv?sv=vgymP3ltv9COQfWQO3bX
@@ -1164,7 +1164,7 @@ http://v.wangjiuling.com/tv?sv=vgymP3ltv9COQfWQO3bX
 http://v.wangjiuling.com/tv?sv=OnzXyA0IlgTmzSNW0gBr
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/8tva.png",group-title="新加坡",ch 8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/5tv.png",group-title="新加坡",Ch 5
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/5tv.png",group-title="新加坡",Ch-5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 
 
